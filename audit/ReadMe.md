@@ -20,7 +20,7 @@ Yes, this is a thorny question. Fortunately, we have extended some of the functi
 - YYY-12 Centrailized Risk in addLiquidity (Major)
 
 
-In fact, we destroy all initial liquidity LPs and obtain LPs in subsequent transactions. Of course, there are some risks in EOA, and the owner will be a multi-sign contract to reduce concentration risk.
+In fact, we destroy all initial liquidity LPs and LPs obtained in subsequent transactions. Of course, there are some risks in EOA, and the owner will be a multi-signed contract to reduce concentration risk.
 
 
 - YYY-14 Privileged Ownership (Major)
