@@ -2,9 +2,9 @@ Certik Audit Report issues
 
 - YYY-05 3rd Party Dependencies (Minor)
 
-```
+
 Yooshi protocal relies on PancakeSwap to exchange 3% of the handling fee for liquidity. Of course, we will continue to monitor the status of PancakeSwap to keep our liquidity safe.
-```
+
 
 - YYY-08  InCorrect Error Message (Minor)
 
